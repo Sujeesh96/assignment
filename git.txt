@@ -1,2 +1,5 @@
 This is the first commit
+
 This is the feature1 commit
+
+This is the  commit in feature f2 branch
